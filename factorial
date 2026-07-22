@@ -34,3 +34,30 @@ Hay 6 formas, que es precisamente:
 3! = 3 × 2 × 1 = 6
 
 En resumen, la factorial de un número indica cuántas maneras hay de ordenar esa cantidad de elementos distintos.
+
+
+
+
+
+RECURSIVIDAD
+La recursividad es una técnica de programación en la que una función se llama a sí misma para resolver un problema, dividiéndolo en problemas más pequeños del mismo tipo.
+
+Para que una función recursiva funcione correctamente, debe tener:
+
+Caso base: la condición que detiene la recursión.
+Caso recursivo: la parte donde la función se vuelve a llamar con un problema más pequeño.
+Ejemplo sencillo
+
+Para calcular la factorial de 5:
+
+5! = 5 × 4!
+4! = 4 × 3!
+3! = 3 × 2!
+2! = 2 × 1!
+1! = 1 (caso base)
+
+Cada llamada espera el resultado de la siguiente hasta llegar al caso base, y luego los resultados se van devolviendo.
+
+Definición corta
+
+La recursividad es una técnica de programación en la que una función se llama a sí misma para resolver un problema, reduciéndolo a versiones más pequeñas hasta alcanzar un caso base que detiene las llamadas.
