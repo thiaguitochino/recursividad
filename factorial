@@ -1,0 +1,36 @@
+Una factorial es una operación matemática que consiste en multiplicar un número entero positivo por todos los números enteros positivos menores que él hasta llegar a 1.
+
+Se representa con un signo de exclamación (!).
+
+Por ejemplo:
+
+5! = 5 × 4 × 3 × 2 × 1 = 120
+4! = 4 × 3 × 2 × 1 = 24
+3! = 3 × 2 × 1 = 6
+2! = 2 × 1 = 2
+1! = 1
+0! = 1 (por definición matemática)
+¿Para qué sirve?
+
+Las factoriales se usan en matemáticas para:
+
+Calcular permutaciones (formas de ordenar elementos).
+Calcular combinaciones (formas de elegir elementos).
+Resolver problemas de probabilidad y estadística.
+Aparecer en fórmulas de álgebra y cálculo.
+Ejemplo sencillo
+
+Si tienes 3 libros y quieres saber de cuántas maneras diferentes puedes ordenarlos en un estante:
+
+ABC
+ACB
+BAC
+BCA
+CAB
+CBA
+
+Hay 6 formas, que es precisamente:
+
+3! = 3 × 2 × 1 = 6
+
+En resumen, la factorial de un número indica cuántas maneras hay de ordenar esa cantidad de elementos distintos.
